@@ -242,7 +242,7 @@
           </div>
           <div class="md:hidden mt-4 mx-auto w-11 h-px rounded-full"></div>
           <div
-            class="mt-7 md:mt-0 flex-1 flex flex-col items-center justify-center md:items-start md:pl-5"
+            class="mt-8 md:mt-0 flex-1 flex flex-col items-center justify-center md:items-start md:pl-5"
           >
             
           </div>
