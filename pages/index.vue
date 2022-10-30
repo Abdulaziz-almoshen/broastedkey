@@ -21,7 +21,7 @@
                   height="133"
                 />
                 <span class="text-2xl font-bold text-yellow-900"
-                  >Tailus <span class="text-yellow-700">Feedus</span></span
+                  >Broasted <span class="text-yellow-700">Key</span></span
                 >
               </a>
               <button
@@ -185,7 +185,8 @@
               href="#"
               class="hover:text-gray-700 dark:hover:text-white"
             >
-              Components
+              مطاعم دار كتاكيت للوجبات السريعة <br>
+              ٧٩٣٦،هارون الرشيد. الجزيرة، ٣٩-٦
             </a>
             <a
               aria-current="page"
