@@ -185,22 +185,19 @@
               href="#"
               class="hover:text-gray-700 dark:hover:text-white"
             >
-              مطاعم دار كتاكيت للوجبات السريعة <br>
-              ٧٩٣٦،هارون الرشيد. الجزيرة، ٣٩-٦
-            </a>
-            <a
-              aria-current="page"
-              href="#"
-              class="hover:text-gray-700 dark:hover:text-white"
-            >
-              Contacts
-            </a>
-            <a
-              aria-current="page"
-              href="#"
-              class="hover:text-gray-700 dark:hover:text-white"
-            >
-              Customization
+              <br />
+              Dar Krtaket Food Restaurant Company - One Individual Company
+
+              <div class="flex justify-start">
+                <p class="font-bold">CR#:</p>
+                <div>101074712</div>
+              </div>
+
+              <div class="flex justify-start">
+                <p class="font-bold">Address:</p>
+                <div>7936 Harun Al Rasheed, Ajazirah Distract, Riyadh, 14251</div>
+              </div>
+              
             </a>
           </nav>
           <div class="md:hidden mt-4 mx-auto w-11 h-px rounded-full"></div>
@@ -244,9 +241,7 @@
           <div class="md:hidden mt-4 mx-auto w-11 h-px rounded-full"></div>
           <div
             class="mt-8 md:mt-0 flex-1 flex flex-col items-center justify-center md:items-start md:pl-5"
-          >
-            
-          </div>
+          ></div>
         </div>
       </div>
     </footer>
