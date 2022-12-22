@@ -189,7 +189,7 @@
               class="hover:text-gray-700 dark:hover:text-white"
             >
               <br />
-              Dar Krtaket Food Restaurant Company - One Individual Company
+              Dar Kataket Restaurants Company - One Individual Company
 
               <div class="flex justify-start">
                 <p class="font-bold">CR#:</p>
