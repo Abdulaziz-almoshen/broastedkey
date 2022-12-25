@@ -152,9 +152,8 @@
                 </div>
               </form>
               <p class="mt-8 text-gray-700 lg:w-10/12">
-                Sit amet consectetur adipisicing elit.
-                <a href="#" class="text-yellow-700">connection</a> tenetur nihil
-                quaerat suscipit, sunt dignissimos.
+                We are open
+                <a href="#" class="text-yellow-700">All branches</a> In Saudi Arabia.
               </p>
             </div>
             <div class="ml-auto -mb-24 lg:-mb-56 lg:w-6/12">
