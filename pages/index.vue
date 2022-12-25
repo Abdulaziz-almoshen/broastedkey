@@ -1,8 +1,6 @@
-
-
 <template>
   <!-- component -->
-  
+
   <div>
     <div class="relative w-full">
       <nav class="fixed z-10 w-full bg-white md:absolute md:bg-transparent">
@@ -195,21 +193,22 @@
                 <p class="font-bold">CR#:</p>
                 <div>101074712</div>
               </div>
-
+              <div class="flex justify-start">
+                <p class="font-bold">Phone#:</p>
+                <div>0540680389</div>
+              </div>
               <div class="flex justify-start">
                 <p class="font-bold">Address:</p>
-                <div>7936 Harun Al Rasheed, Ajazirah Distract, Riyadh, 14251</div>
+                <div>
+                  7936 Harun Al Rasheed, Ajazirah Distract, Riyadh, 14251
+                </div>
               </div>
-              
             </a>
           </nav>
           <div class="md:hidden mt-4 mx-auto w-11 h-px rounded-full"></div>
           <div
             class="mt-4 md:mt-0 flex-1 flex items-center justify-center md:border-r border-gray-100"
-          >
-           
-            
-          </div>
+          ></div>
           <div class="md:hidden mt-4 mx-auto w-11 h-px rounded-full"></div>
           <div
             class="mt-8 md:mt-0 flex-1 flex flex-col items-center justify-center md:items-start md:pl-5"
