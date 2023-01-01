@@ -1871,7 +1871,9 @@
               </p>
               <p class="text-sm text-gray-500">Commercial Number: 101074712</p>
               <p class="text-sm text-gray-500">Phone Number: +966540680389</p>
-              <p class="text-sm text-gray-500">Address: :7936 Harun Al Rasheed, Ajazirah Distract, 14251</p>
+              <p class="text-sm text-gray-500">
+                Address: :7936 Haroun Al Rashid Al Jazeerah Dist.3906
+              </p>
             </div>
 
             <div class="mt-4 flex items-center justify-center md:mt-0">
